@@ -17,7 +17,7 @@ function Footer() {
                 aria-label="linkedin"
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/stefan-topalovic-dev/"
+                href="https://www.linkedin.com/in/abdullakhan8999/"
               >
                 <AiFillLinkedin />
               </a>
@@ -25,7 +25,7 @@ function Footer() {
                 aria-label="github"
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/stefvndev"
+                href="https://github.com/abdullakhan8999"
               >
                 <AiOutlineGithub />
               </a>
