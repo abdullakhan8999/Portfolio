@@ -7,6 +7,8 @@ import Bootstrap from "/techImg/bootstrap.svg";
 import Mongodb from "/techImg/mongodb.svg";
 import Git from "/techImg/Git.svg";
 import NodeJs from "/techImg/node.svg";
+import Tailwind from "/techImg/tailwind.png";
+import Redux from "/techImg/redux.png";
 import { AiOutlineGithub, AiFillLinkedin } from "react-icons/ai";
 import { RiFileList3Fill } from "react-icons/ri";
 
@@ -27,6 +29,14 @@ function Hero() {
     {
       img: React,
       title: "React",
+    },
+    {
+      img: Tailwind,
+      title: "Tailwind",
+    },
+    {
+      img: Redux,
+      title: "Redux",
     },
     {
       img: Bootstrap,

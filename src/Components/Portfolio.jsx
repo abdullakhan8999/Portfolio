@@ -8,15 +8,15 @@ import "./Projects.css";
 function Projects() {
   const projects = [
     {
-      title: "MaNa Case Master",
-      img: MaNaCaseMaster,
+      title: "MaNa Ecommerce",
+      img: Ecommerce,
       description:
-        "MaNaCaseMaster website, a text conversion tool that allows users to effortlessly convert text between various cases. The tool features an intuitive and visually appealing interface, designed to enhance user experience.",
-      tech: ["React", "BOOTSTRAP"],
-      code: "https://github.com/abdullakhan8999/TEXT-EDITOR",
-      demo: "https://mana-case-master.netlify.app/",
-      scrollY: "-5%",
-      icon: "✏️",
+        "Built an e-commerce app with MERN stack, leveraging MongoDB for data storage. Implemented robust backend with Node.js and Express for authentication, product management, cart, and orders. Created dynamic and responsive frontend with React, showcasing full-stack proficiency for a seamless shopping experience.",
+      tech: ["MERN STACK", "REDUX", "Tailwind"],
+      code: "https://github.com/abdullakhan8999/MERN-STACK-ECOMMERCE-PROJECT",
+      demo: "https://master--unrivaled-granita-450d81.netlify.app/",
+      scrollY: "-60%",
+      icon: "🛒",
       cName: "reversed-proj",
     },
     {
@@ -32,14 +32,15 @@ function Projects() {
       cName: "reversed-proj",
     },
     {
-      title: "MaNa Ecommerce",
-      img: Ecommerce,
+      title: "MaNa Case Master",
+      img: MaNaCaseMaster,
       description:
-        "Built an e-commerce app with MERN stack, leveraging MongoDB for data storage. Implemented robust backend with Node.js and Express for authentication, product management, cart, and orders. Created dynamic and responsive frontend with React, showcasing full-stack proficiency for a seamless shopping experience.",
-      tech: ["MERN STACK", "REDUX", "BOOTSTRAP"],
-      code: "https://github.com/abdullakhan8999/MERN-STACK-ECOMMERCE-PROJECT",
-      scrollY: "-60%",
-      icon: "🛒",
+        "MaNaCaseMaster website, a text conversion tool that allows users to effortlessly convert text between various cases. The tool features an intuitive and visually appealing interface, designed to enhance user experience.",
+      tech: ["React", "BOOTSTRAP"],
+      code: "https://github.com/abdullakhan8999/TEXT-EDITOR",
+      demo: "https://mana-case-master.netlify.app/",
+      scrollY: "-5%",
+      icon: "✏️",
       cName: "reversed-proj",
     },
     {
@@ -78,7 +79,6 @@ function Projects() {
               ))}
             </div>
           </div>
-          {/* <h2 className="new-projects">New projects coming soon.. 🤠</h2> */}
         </div>
       </section>
     </>
