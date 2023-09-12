@@ -7,8 +7,8 @@ import Bootstrap from "/techImg/bootstrap.svg";
 import Mongodb from "/techImg/mongodb.svg";
 import Git from "/techImg/Git.svg";
 import NodeJs from "/techImg/node.svg";
-import Tailwind from "/techImg/tailwind.png";
 import Redux from "/techImg/redux.png";
+import Tailwind from "/techImg/tailwind.png";
 import { AiOutlineGithub, AiFillLinkedin } from "react-icons/ai";
 import { RiFileList3Fill } from "react-icons/ri";
 
