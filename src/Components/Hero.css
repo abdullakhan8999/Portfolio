@@ -212,11 +212,11 @@
 .skills ul {
   list-style: none;
   display: flex;
-  flex-wrap: wrap;
   gap: 2.5rem;
 }
 @media (max-width: 900px) {
   .skills ul {
+    flex-wrap: wrap;
     justify-content: center;
   }
 }
