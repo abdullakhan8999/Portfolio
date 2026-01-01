@@ -18,19 +18,18 @@ function AboutMe() {
             <div className="text-side">
               <h3>About me</h3>
               <h4>
-                A dedicated Front-end Developer <br /> based in Vijayawada,
+                A dedicated ServiceNow Developer <br /> based in Vijayawada,
                 Andhra Pradesh.
               </h4>
               <p>
-                As a passionate Front-End Developer, I possess an impressive
-                arsenal of skills in HTML, CSS, JavaScript, React, Bootstrap,
-                Mongodb and NodeJs. I excel in designing and maintaining
-                responsive websites that offer a smooth user experience. My
-                expertise lies in crafting dynamic, engaging interfaces through
-                writing clean and optimized code and utilizing cutting-edge
-                development tools and techniques. I am also a team player who
-                thrives in collaborating with cross-functional teams to produce
-                outstanding web applications.
+                Skilled ServiceNow developer and full-stack web developer with
+                expertise in Service Portal development, ITSM, ReactJS,
+                AngularJS, and Bootstrap. Proficient in crafting responsive,
+                user-centric interfaces using modern web technologies and
+                creating Service Portal solutions. Strong problem-solver with
+                excellent collaboration and communication skills, committed to
+                delivering high-quality applications and driving digital
+                transformation initiatives.
               </p>
             </div>
           </div>
