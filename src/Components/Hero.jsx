@@ -4,16 +4,21 @@ import Css from "/techImg/css3.svg";
 import Js from "/techImg/javascript.svg";
 import React from "/techImg/react.svg";
 import Bootstrap from "/techImg/bootstrap.svg";
-import Mongodb from "/techImg/mongodb.svg";
+// import Mongodb from "/techImg/mongodb.svg";
 import Git from "/techImg/Git.svg";
 import NodeJs from "/techImg/node.svg";
 import Redux from "/techImg/redux.png";
 import Tailwind from "/techImg/tailwind.png";
+import ServiceNow from "/techImg/SNOW.png";
 import { AiOutlineGithub, AiFillLinkedin } from "react-icons/ai";
 import { RiFileList3Fill } from "react-icons/ri";
 
 function Hero() {
   const skillsIcons = [
+    {
+      img: ServiceNow,
+      title: "ServiceNow",
+    },
     {
       img: Html,
       title: "HTML5",
@@ -46,10 +51,10 @@ function Hero() {
       img: NodeJs,
       title: "NodeJs",
     },
-    {
-      img: Mongodb,
-      title: "Mongodb",
-    },
+    // {
+    //   img: Mongodb,
+    //   title: "Mongodb",
+    // },
     {
       img: Git,
       title: "Git & Github",
@@ -68,11 +73,11 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Front-End React Developer</h1>
+                <h1>ServiceNow Developer</h1>
                 <img src="/waving.png" alt="waving_hand" />
                 <p>
-                  Hi, I'm Patan Abdulla Khan. A passionate Front-end React
-                  Developer based in Vijayawada, Andhra Pradesh, IN. 📍
+                  Hi, I'm Patan Abdulla Khan. A passionate ServiceNow Developer
+                  based in Vijayawada, Andhra Pradesh, IN. 📍
                 </p>
                 <span>
                   <a
@@ -80,7 +85,7 @@ function Hero() {
                     aria-label="linkedin"
                     rel="noreferrer"
                     target="_blank"
-                    href="https://www.linkedin.com/in/abdullakhan8999/"
+                    href="www.linkedin.com/in/abdulla-p-6047602a6"
                   >
                     <AiFillLinkedin />
                   </a>
