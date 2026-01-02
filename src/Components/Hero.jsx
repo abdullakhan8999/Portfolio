@@ -85,7 +85,7 @@ function Hero() {
                     aria-label="linkedin"
                     rel="noreferrer"
                     target="_blank"
-                    href="www.linkedin.com/in/abdulla-p-6047602a6"
+                    href="https://www.linkedin.com/in/abdulla-p-6047602a6/"
                   >
                     <AiFillLinkedin />
                   </a>
